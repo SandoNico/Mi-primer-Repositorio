@@ -1,5 +1,5 @@
-# aprendiendo-github
-Primer repo creado en github
+# Aprendiendo-github
+Primer repo creado en Github
 
-## descripción
-este es un repositorio para aprender a usar github 
+## Descripción
+este es un repositorio para aprender a usar Github 
